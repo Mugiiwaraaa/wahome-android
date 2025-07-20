@@ -10,7 +10,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import com.google.android.gms.wearable.Node
 import dagger.hilt.android.AndroidEntryPoint
-import io.homeassistant.companion.android.HomeAssistantApplication
+import com.wahome.WahomeApplication
 import io.homeassistant.companion.android.onboarding.OnboardApp
 import io.homeassistant.companion.android.settings.wear.SettingsWearViewModel
 import kotlinx.coroutines.cancel
