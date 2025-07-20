@@ -15,7 +15,7 @@
         <item name="android:windowLightNavigationBar">@bool/isLightMode</item>
     </style>
 
-    <style name="ThemeOverlay.HomeAssistant.BottomSheetDialog" parent="ThemeOverlay.HomeAssistant.BottomSheetDialog.Base">
+    <style name="ThemeOverlay.Wahome.BottomSheetDialog" parent="ThemeOverlay.Wahome.BottomSheetDialog.Base">
         <item name="android:navigationBarColor">@android:color/transparent</item>
         <item name="android:windowLightNavigationBar">@bool/isLightMode</item>
         <item name="enableEdgeToEdge">true</item>
