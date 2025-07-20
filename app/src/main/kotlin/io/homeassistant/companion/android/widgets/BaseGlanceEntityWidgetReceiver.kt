@@ -69,7 +69,7 @@ data class EntitiesPerServer(val serverId: Int, val entityIds: List<String>)
  *
  * Register the widget in the [com.wahome.WahomeApplication]:
  * ```kotlin
- * // In io.homeassistant.companion.android.HomeAssistantApplication
+ * // In com.wahome.WahomeApplication
  * override fun onCreate() {
  *     super.onCreate()
  *     ...
