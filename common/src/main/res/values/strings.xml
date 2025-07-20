@@ -323,7 +323,7 @@
     <string name="input_url">Home Assistant URL</string>
     <string name="install">Install</string>
     <string name="install_app">Install app on Wear device</string>
-    <string name="install_phone_to_continue">Install Home Assistant on your phone to continue</string>
+    <string name="install_phone_to_continue">Install Wahome on your phone to continue</string>
     <plurals name="interval_hours">
         <item quantity="one">%d hour</item>
         <item quantity="other">%d hours</item>
