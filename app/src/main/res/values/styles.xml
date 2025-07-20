@@ -65,9 +65,9 @@
         <item name="popupTheme">@style/Theme.Wahome.PopupTheme</item>
     </style>
 
-    <style name="ThemeOverlay.HomeAssistant.BottomSheetDialog" parent="ThemeOverlay.HomeAssistant.BottomSheetDialog.Base"/>
+    <style name="ThemeOverlay.Wahome.BottomSheetDialog" parent="ThemeOverlay.Wahome.BottomSheetDialog.Base"/>
 
-    <style name="ThemeOverlay.HomeAssistant.BottomSheetDialog.Base" parent="ThemeOverlay.MaterialComponents.BottomSheetDialog">
+    <style name="ThemeOverlay.Wahome.BottomSheetDialog.Base" parent="ThemeOverlay.MaterialComponents.BottomSheetDialog">
         <item name="android:backgroundTint">@android:color/transparent</item>
     </style>
 
