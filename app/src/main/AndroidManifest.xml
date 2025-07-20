@@ -883,7 +883,7 @@
         <service
             android:name=".qs.Tile36Service"
             android:icon="@drawable/ic_stat_ic_notification"
-            android:label="@string/tile36"
+            android:label="@string/tile_36"
             android:permission="android.permission.BIND_QUICK_SETTINGS_TILE"
             android:enabled="false"
             android:exported="true">
