@@ -93,7 +93,7 @@
         <item name="colorControlNormal">@color/colorDialogMessage</item>
     </style>
 
-    <style name="Theme.HomeAssistant.Widget">
+    <style name="Theme.Wahome.Widget">
         <item name="colorWidgetPrimary">@color/colorWidgetButtonLabel</item>
         <item name="colorWidgetButton">@color/colorIcon</item>
         <item name="colorWidgetBackground">@color/colorWidgetButtonBackground</item>
