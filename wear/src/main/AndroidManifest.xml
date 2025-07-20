@@ -66,7 +66,7 @@
 
         <activity android:name=".home.HomeActivity" />
         <activity android:name=".splash.SplashActivity"
-            android:theme="@style/Theme.HomeAssistant.SplashTheme"
+            android:theme="@style/Theme.Wahome.SplashTheme"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
