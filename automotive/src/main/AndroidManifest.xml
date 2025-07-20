@@ -366,7 +366,7 @@
             android:parentActivityName=".webview.WebViewActivity"
             android:exported="false"
             android:configChanges="orientation|screenSize"
-            android:theme="@style/Theme.HomeAssistant.Config"/>
+            android:theme="@style/Theme.Wahome.Config"/>
 
         <activity
             android:name=".nfc.TagReaderActivity"
