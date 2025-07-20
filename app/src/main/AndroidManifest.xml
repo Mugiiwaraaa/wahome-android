@@ -58,7 +58,7 @@
     <uses-feature android:name="android.hardware.bluetooth" android:required="false" />
 
     <application
-        android:name="com.wahome.WahomeApplication"
+        android:name="io.homeassistant.companion.android.HomeAssistantApplication"
         android:allowBackup="true"
         android:fullBackupContent="@xml/backup_rules"
         android:dataExtractionRules="@xml/backup_rules_android12"
