@@ -24,7 +24,7 @@
         <item name="popupTheme">@style/Theme.Wahome.PopupTheme</item>
     </style>
 
-    <style name="Theme.HomeAssistant.PopupTheme" parent="ThemeOverlay.MaterialComponents.Dark">
+    <style name="Theme.Wahome.PopupTheme" parent="ThemeOverlay.MaterialComponents.Dark">
         <item name="android:background">@color/colorActionBarPopupBackground</item>
     </style>
 </resources>
