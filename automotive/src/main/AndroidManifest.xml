@@ -134,8 +134,8 @@
             android:exported="false">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
-                <action android:name="io.homeassistant.companion.android.widgets.camera.CameraWidget.RECEIVE_DATA" />
-                <action android:name="io.homeassistant.companion.android.widgets.camera.CameraWidget.UPDATE_IMAGE" />
+                <action android:name="com.wahome.widgets.camera.CameraWidget.RECEIVE_DATA" />
+                <action android:name="com.wahome.widgets.camera.CameraWidget.UPDATE_IMAGE" />
             </intent-filter>
 
             <meta-data
