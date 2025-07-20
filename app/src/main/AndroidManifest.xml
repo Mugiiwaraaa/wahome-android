@@ -581,7 +581,7 @@
             android:name=".qs.Tile8Service"
             android:icon="@drawable/ic_stat_ic_notification"
             android:label="@string/tile_8"
-            android:permission="android:permission.BIND_QUICK_SETTINGS_TILE"
+            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.service.quicksettings.action.QS_TILE"/>
