@@ -75,7 +75,7 @@
         <item name="android:background">@color/colorBackground</item>
         <item name="android:textColorPrimary">@color/colorOnBackground</item>
         <item name="colorControlNormal">@color/colorOnBackground</item>
-        <item name="popupTheme">@style/Theme.HomeAssistant.PopupTheme</item>
+        <item name="popupTheme">@style/Theme.Wahome.PopupTheme</item>
     </style>
 
     <style name="Theme.HomeAssistant.Dialog.Alert.Launch" parent="Theme.HomeAssistant.Dialog.Alert">
