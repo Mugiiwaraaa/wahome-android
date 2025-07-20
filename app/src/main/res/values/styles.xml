@@ -4,7 +4,7 @@
 
     <style name="Theme.LaunchScreen" parent="Theme.LaunchScreen.Base">
         <item name="android:background">@drawable/launch_screen_background</item>
-        <item name="alertDialogTheme">@style/Theme.HomeAssistant.Dialog.Alert.Launch</item>
+        <item name="alertDialogTheme">@style/Theme.Wahome.Dialog.Alert.Launch</item>
     </style>
 
     <style name="Theme.HomeAssistant" parent="Theme.MaterialComponents.DayNight.NoActionBar">
