@@ -122,7 +122,7 @@
     <string name="binary_sensor">Binary sensor</string>
     <string name="biometric_message">Unlock using your biometric or screen lock credentials</string>
     <string name="biometric_set_title">Confirm to continue</string>
-    <string name="biometric_title">Home Assistant is locked</string>
+    <string name="biometric_title">Wahome is locked</string>
     <string name="brightness">Brightness: %1$d%%</string>
     <string name="broadcast_intent_error">Unable to send broadcast intent, please check the command format</string>
     <string name="buttons">Buttons</string>
