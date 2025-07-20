@@ -20,7 +20,7 @@
         android:layout_marginStart="15dp"
         android:autoLink="web"
         android:layout_marginEnd="15dp"
-        style="@style/TextAppearance.HomeAssistant.Headline"
+        style="@style/TextAppearance.Wahome.Headline"
         app:layout_constraintBottom_toTopOf="@id/remote_open_button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
