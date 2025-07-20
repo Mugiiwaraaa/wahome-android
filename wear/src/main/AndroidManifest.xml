@@ -80,7 +80,7 @@
         <activity android:name=".complications.ComplicationConfigActivity"
             android:exported="true">
             <intent-filter>
-                <action android:name="io.homeassistant.companion.android.ENTITY_STATE_COMPLICATION_CONFIG" />
+                <action android:name="com.wahome.ENTITY_STATE_COMPLICATION_CONFIG" />
                 <category android:name="android.support.wearable.complications.category.PROVIDER_CONFIG" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
@@ -261,7 +261,7 @@
                 android:value="900" />
             <meta-data
                 android:name="android.support.wearable.complications.PROVIDER_CONFIG_ACTION"
-                android:value="io.homeassistant.companion.android.ENTITY_STATE_COMPLICATION_CONFIG" />
+                android:value="com.wahome.ENTITY_STATE_COMPLICATION_CONFIG" />
         </service>
 
         <service android:name=".complications.AssistDataSourceService"
