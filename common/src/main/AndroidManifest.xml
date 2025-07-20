@@ -9,7 +9,7 @@
         <receiver android:name=".sensors.SensorUpdateReceiver"
             android:exported="true">
             <intent-filter>
-                <action android:name="io.homeassistant.companion.android.UPDATE_SENSORS" />
+                <action android:name="com.wahome.UPDATE_SENSORS" />
             </intent-filter>
         </receiver>
 
