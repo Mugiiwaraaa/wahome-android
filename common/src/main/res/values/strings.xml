@@ -41,7 +41,7 @@
     <string name="autoplay_video">Autoplay videos</string>
     <string name="available_as_assistant_app">Available as assistant app</string>
     <string name="background_access_disabled">Wahome does not have access to run in the background. Without this permission the app will not be able to reliably send data back to your server. Select to update permissions.</string>
-    <string name="background_access_enabled">Home Assistant has access to run in the background</string>
+    <string name="background_access_enabled">Wahome has access to run in the background</string>
     <string name="background_access_title">Background access</string>
     <string name="basic_sensor_lullaby">Lullaby</string>
     <string name="basic_sensor_name_active_calories_burned">Active calories burned</string>
