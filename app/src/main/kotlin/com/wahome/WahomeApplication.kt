@@ -13,6 +13,7 @@ import android.os.Build
 import android.os.PowerManager
 import android.telephony.TelephonyManager
 import androidx.core.content.ContextCompat
+import com.wahome.BuildConfig
 import coil3.ImageLoader
 import coil3.PlatformContext
 import coil3.SingletonImageLoader
