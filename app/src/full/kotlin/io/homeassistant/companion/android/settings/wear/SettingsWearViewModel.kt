@@ -203,7 +203,7 @@ class SettingsWearViewModel @Inject constructor(private val serverManager: Serve
     }
 
     fun sendHomeFavorites(favoritesList: List<String>) = viewModelScope.launch {
-        val application = getApplication<HomeAssistantApplication>()
+        val application = getApplication<WahomeApplication>()
         val putDataRequest = PutDataMapRequest.create("/updateFavorites").run {
             dataMap.putLong(WearDataMessages.KEY_UPDATE_TIME, System.nanoTime())
             dataMap.putString(WearDataMessages.CONFIG_FAVORITES, kotlinJsonMapper.encodeToString(favoritesList))
