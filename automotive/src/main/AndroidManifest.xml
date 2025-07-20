@@ -182,7 +182,7 @@
                 <action android:name="android.app.action.NEXT_ALARM_CLOCK_CHANGED" />
                 <action android:name="android.bluetooth.device.action.ACL_CONNECTED" />
                 <action android:name="android.bluetooth.device.action.ACL_DISCONNECTED" />
-                <action android:name="io.homeassistant.companion.android.background.REQUEST_SENSORS_UPDATE" />
+                <action android:name="com.wahome.background.REQUEST_SENSORS_UPDATE" />
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
                 <action android:name="com.wahome.widgets.template.TemplateWidget.RECEIVE_DATA" />
             </intent-filter>
@@ -253,7 +253,7 @@
             android:enabled="true"
             android:exported="true">
             <intent-filter>
-                <action android:name="io.homeassistant.companion.android.background.REQUEST_ACCURATE_UPDATE" />
+                <action android:name="com.wahome.background.REQUEST_ACCURATE_UPDATE" />
             </intent-filter>
         </receiver>
 
@@ -262,7 +262,7 @@
             android:enabled="true"
             android:exported="true">
             <intent-filter>
-                <action android:name="io.homeassistant.companion.android.background.REQUEST_ACTIVITY_UPDATES" />
+                <action android:name="com.wahome.background.REQUEST_ACTIVITY_UPDATES" />
             </intent-filter>
         </receiver>
 
