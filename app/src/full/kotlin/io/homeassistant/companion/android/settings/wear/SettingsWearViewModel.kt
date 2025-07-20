@@ -222,7 +222,7 @@ class SettingsWearViewModel @Inject constructor(private val serverManager: Serve
 
     private fun readUriData(uri: String): ByteArray {
         if (uri.isEmpty()) return ByteArray(0)
-        return getApplication<HomeAssistantApplication>().contentResolver.openInputStream(
+        return getApplication<WahomeApplication>().contentResolver.openInputStream(
             uri.toUri(),
         )!!.buffered().use {
             it.readBytes()
