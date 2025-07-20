@@ -73,7 +73,8 @@
         android:localeConfig="@xml/locales_config"
         android:intentMatchingFlags="enforceIntentFilter"
         tools:ignore="GoogleAppIndexingWarning,UnusedAttribute"
-        tools:targetApi="tiramisu">
+        tools:targetApi="tiramisu"
+        tools:replace="android:name">
 
         <!-- Start things like SensorWorker on device boot -->
         <receiver android:name=".websocket.WebsocketBroadcastReceiver"
