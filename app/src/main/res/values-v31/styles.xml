@@ -10,7 +10,7 @@
         <item name="android:windowSplashScreenAnimatedIcon">@drawable/app_icon_launch_screen</item>
     </style>
 
-    <style name="Theme.HomeAssistant.DynamicColorWidget">
+    <style name="Theme.Wahome.DynamicColorWidget">
         <item name="colorWidgetPrimary">@color/colorDynamicWidgetPrimary</item>
         <item name="colorWidgetButton">@color/colorDynamicWidgetPrimary</item>
         <item name="colorWidgetBackground">@color/colorDynamicWidgetBackground</item>
