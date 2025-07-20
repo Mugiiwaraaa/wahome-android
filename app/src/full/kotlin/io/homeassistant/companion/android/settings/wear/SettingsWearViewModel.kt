@@ -110,7 +110,7 @@ class SettingsWearViewModel @Inject constructor(private val serverManager: Serve
 
     override fun onCleared() {
         try {
-            Wearable.getDataClient(getApplication<HomeAssistantApplication>()).removeListener(this)
+            Wearable.getDataClient(getApplication<WahomeApplication>()).removeListener(this)
         } catch (e: Exception) {
             Timber.e(e, "Unable to remove listener from wearable data client")
         }
