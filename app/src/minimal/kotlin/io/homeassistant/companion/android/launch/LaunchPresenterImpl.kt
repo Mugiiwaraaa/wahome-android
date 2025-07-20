@@ -1,6 +1,6 @@
 package io.homeassistant.companion.android.launch
 
-import io.homeassistant.companion.android.BuildConfig
+import com.wahome.BuildConfig
 import io.homeassistant.companion.android.common.data.integration.DeviceRegistration
 import io.homeassistant.companion.android.common.data.servers.ServerManager
 import javax.inject.Inject

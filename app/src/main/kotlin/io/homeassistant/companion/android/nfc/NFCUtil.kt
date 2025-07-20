@@ -12,7 +12,7 @@ import android.nfc.Tag
 import android.nfc.tech.Ndef
 import android.nfc.tech.NdefFormatable
 import androidx.core.content.IntentCompat
-import io.homeassistant.companion.android.BuildConfig
+import com.wahome.BuildConfig
 import java.io.IOException
 
 object NFCUtil {
