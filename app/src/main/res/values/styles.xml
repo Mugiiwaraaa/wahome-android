@@ -62,7 +62,7 @@
         <item name="android:background">@color/colorActionBar</item>
         <item name="android:textColorPrimary">@color/colorOnPrimary</item>
         <item name="colorControlNormal">@color/colorOnPrimary</item>
-        <item name="popupTheme">@style/Theme.HomeAssistant.PopupTheme</item>
+        <item name="popupTheme">@style/Theme.Wahome.PopupTheme</item>
     </style>
 
     <style name="ThemeOverlay.HomeAssistant.BottomSheetDialog" parent="ThemeOverlay.HomeAssistant.BottomSheetDialog.Base"/>
