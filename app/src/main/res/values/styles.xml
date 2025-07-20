@@ -54,7 +54,7 @@
         <item name="android:textColor">@color/colorPrimary</item>
     </style>
 
-    <style name="Theme.HomeAssistant.PopupTheme" parent="ThemeOverlay.MaterialComponents.Light">
+    <style name="Theme.Wahome.PopupTheme" parent="ThemeOverlay.MaterialComponents.Light">
         <item name="android:background">@color/colorActionBarPopupBackground</item>
     </style>
 
