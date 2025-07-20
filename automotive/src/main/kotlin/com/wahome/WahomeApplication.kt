@@ -30,7 +30,7 @@ import io.homeassistant.companion.android.sensors.SensorReceiver
 import io.homeassistant.companion.android.settings.language.LanguagesManager
 import io.homeassistant.companion.android.util.LifecycleHandler
 import io.homeassistant.companion.android.util.ignoredViolationRules
-import io.homeassistant.companion.android.util.initCrashReporting
+import io.homeassistant.companion.android.initCrashReporting
 import io.homeassistant.companion.android.util.initCrashSaving
 import io.homeassistant.companion.android.websocket.WebsocketBroadcastReceiver
 import io.homeassistant.companion.android.widgets.button.ButtonWidget
