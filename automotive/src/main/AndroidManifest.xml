@@ -319,7 +319,7 @@
         <activity
             android:name=".onboarding.OnboardingActivity"
             android:configChanges="orientation|screenSize|keyboard|keyboardHidden|navigation"
-            android:theme="@style/Theme.HomeAssistant.Config" />
+            android:theme="@style/Theme.Wahome.Config" />
 
         <activity
             android:name=".settings.wear.SettingsWearActivity"
