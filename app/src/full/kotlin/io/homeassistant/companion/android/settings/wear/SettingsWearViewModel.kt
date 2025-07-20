@@ -280,7 +280,7 @@ class SettingsWearViewModel @Inject constructor(private val serverManager: Serve
         }
 
         try {
-            Wearable.getDataClient(getApplication<HomeAssistantApplication>())
+            Wearable.getDataClient(getApplication<WahomeApplication>())
                 .putDataItem(putDataRequest).apply {
                     addOnSuccessListener { Timber.d("Successfully sent tile template to wear") }
                     addOnFailureListener { e -> Timber.e(e, "Failed to send tile template to wear") }
