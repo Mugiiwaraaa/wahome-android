@@ -11,7 +11,7 @@ import androidx.wear.activity.ConfirmationActivity
 import dagger.hilt.android.AndroidEntryPoint
 import com.wahome.R
 import io.homeassistant.companion.android.common.R as commonR
-import io.homeassistant.companion.android.databinding.ActivityManualSetupBinding
+import com.wahome.databinding.ActivityManualSetupBinding
 import io.homeassistant.companion.android.onboarding.integration.MobileAppIntegrationActivity
 import io.homeassistant.companion.android.util.adjustInset
 import javax.inject.Inject

@@ -2,8 +2,8 @@ package io.homeassistant.companion.android.util
 
 import android.content.Context
 import android.content.res.Resources
-import io.homeassistant.companion.android.databinding.ActivityIntegrationBinding
-import io.homeassistant.companion.android.databinding.ActivityManualSetupBinding
+import com.wahome.databinding.ActivityIntegrationBinding
+import com.wahome.databinding.ActivityManualSetupBinding
 
 private const val FACTOR = 0.146467f // c = a * sqrt(2)
 

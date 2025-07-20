@@ -5,7 +5,7 @@ import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.widget.LinearLayout
 import com.wahome.R
-import io.homeassistant.companion.android.databinding.ViewLoadingBinding
+import com.wahome.databinding.ViewLoadingBinding
 
 class LoadingView @JvmOverloads constructor(context: Context, attrs: AttributeSet? = null) :
     LinearLayout(context, attrs) {
