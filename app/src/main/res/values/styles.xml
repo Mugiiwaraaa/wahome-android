@@ -32,7 +32,7 @@
         <item name="android:backgroundDimAmount">0.1</item>
     </style>
 
-    <style name="TextAppearance.HomeAssistant.Headline" parent="TextAppearance.MaterialComponents.Headline1">
+    <style name="TextAppearance.Wahome.Headline" parent="TextAppearance.MaterialComponents.Headline1">
         <item name="android:textSize">20sp</item>
         <item name="android:textColor">@color/colorHeadline1</item>
     </style>
