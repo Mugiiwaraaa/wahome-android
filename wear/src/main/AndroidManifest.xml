@@ -239,7 +239,7 @@
         <receiver android:name=".tiles.TileActionReceiver"
             android:exported="false">
             <intent-filter>
-                <action android:name="io.homeassistant.companion.android.TILE_ACTION" />
+                <action android:name="com.wahome.TILE_ACTION" />
             </intent-filter>
         </receiver>
         
