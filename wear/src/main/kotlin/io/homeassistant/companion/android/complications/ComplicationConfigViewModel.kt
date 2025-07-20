@@ -41,7 +41,7 @@ class ComplicationConfigViewModel @Inject constructor(
         ERROR,
     }
 
-    val app = getApplication<HomeAssistantApplication>()
+    val app = getApplication<WahomeApplication>()
 
     var entities = mutableStateMapOf<String, Entity>()
         private set
