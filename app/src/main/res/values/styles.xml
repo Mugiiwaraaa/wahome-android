@@ -50,7 +50,7 @@
         <item name="android:textColor">@color/colorOnPrimary</item>
     </style>
 
-    <style name="Widget.HomeAssistant.Button.Outlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
+    <style name="Widget.Wahome.Button.Outlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
         <item name="android:textColor">@color/colorPrimary</item>
     </style>
 
