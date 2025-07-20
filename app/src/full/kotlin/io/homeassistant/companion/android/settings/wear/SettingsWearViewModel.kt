@@ -406,7 +406,7 @@ class SettingsWearViewModel @Inject constructor(private val serverManager: Serve
         authenticateId = null
     }
 
-    private fun watchConnectionError(app: HomeAssistantApplication) {
+    private fun watchConnectionError(app: WahomeApplication) {
         viewModelScope.launch {
             _resultSnackbar.emit(app.getString(commonR.string.failed_watch_connection))
         }
