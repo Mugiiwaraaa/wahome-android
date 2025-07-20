@@ -78,7 +78,7 @@ class SettingsWearMainView : AppCompatActivity() {
                 isWatch = true,
                 discoveryOptions = OnboardApp.DiscoveryOptions.ADD_EXISTING_EXTERNAL,
                 mayRequireTlsClientCertificate =
-                (application as HomeAssistantApplication).keyChainRepository.getPrivateKey() != null,
+                (application as WahomeApplication).keyChainRepository.getPrivateKey() != null,
             ),
         )
     }
