@@ -14,7 +14,7 @@ import android.os.PowerManager
 import androidx.core.app.TaskStackBuilder
 import androidx.core.net.toUri
 import dagger.hilt.android.AndroidEntryPoint
-import io.homeassistant.companion.android.BuildConfig
+import com.wahome.BuildConfig
 import io.homeassistant.companion.android.common.sensors.AndroidOsSensorManager
 import io.homeassistant.companion.android.common.sensors.AudioSensorManager
 import io.homeassistant.companion.android.common.sensors.BatterySensorManager

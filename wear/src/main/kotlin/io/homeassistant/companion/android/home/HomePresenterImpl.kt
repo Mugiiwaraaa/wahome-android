@@ -1,6 +1,6 @@
 package io.homeassistant.companion.android.home
 
-import io.homeassistant.companion.android.BuildConfig
+import com.wahome.BuildConfig
 import io.homeassistant.companion.android.common.R as commonR
 import io.homeassistant.companion.android.common.data.authentication.SessionState
 import io.homeassistant.companion.android.common.data.integration.DeviceRegistration
