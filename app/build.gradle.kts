@@ -1,5 +1,5 @@
 import com.google.firebase.appdistribution.gradle.firebaseAppDistribution
-import com.google.gms.googleservices.GoogleServicesPlugin.GoogleServicesPluginConfig
+// import com.google.gms.googleservices.GoogleServicesPlugin.GoogleServicesPluginConfig // Commented out for simple build
 
 plugins {
     alias(libs.plugins.homeassistant.android.application)
