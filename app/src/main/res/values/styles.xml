@@ -42,7 +42,7 @@
         <item name="android:textColor">@color/colorHeadline2</item>
     </style>
 
-    <style name="TextAppearance.HomeAssistant.Medium" parent="TextAppearance.MaterialComponents.Headline3">
+    <style name="TextAppearance.Wahome.Medium" parent="TextAppearance.MaterialComponents.Headline3">
         <item name="android:textSize">16sp</item>
     </style>
 
