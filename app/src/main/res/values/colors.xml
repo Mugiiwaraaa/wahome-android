@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="ic_launcher_foreground">#FFF2F2F2</color>
+    <color name="ic_launcher_foreground">#C0C0C0</color> <!-- Silver -->
+    <color name="colorPrimary">#C0C0C0</color> <!-- Silver -->
+    <color name="colorPrimaryDark">#121212</color> <!-- Matter black -->
+    <color name="colorAccent">#B0B0B0</color> <!-- Light silver -->
+    <color name="backgroundColor">#121212</color> <!-- Matter black -->
+    <color name="textColor">#FFFFFF</color> <!-- White text on dark background -->
+    <color name="colorSurface">#1E1E1E</color> <!-- Dark surface -->
+    <color name="colorOnSurface">#FFFFFF</color> <!-- White on dark surface -->
 </resources>
