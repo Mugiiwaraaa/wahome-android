@@ -20,7 +20,7 @@ import io.homeassistant.companion.android.common.data.integration.Entity
 import io.homeassistant.companion.android.common.data.integration.domain
 import io.homeassistant.companion.android.database.widget.MediaPlayerControlsWidgetDao
 import io.homeassistant.companion.android.database.widget.WidgetBackgroundType
-import io.homeassistant.companion.android.databinding.WidgetMediaControlsConfigureBinding
+import com.wahome.databinding.WidgetMediaControlsConfigureBinding
 import io.homeassistant.companion.android.settings.widgets.ManageWidgetsViewModel
 import io.homeassistant.companion.android.util.applySafeDrawingInsets
 import io.homeassistant.companion.android.widgets.BaseWidgetConfigureActivity

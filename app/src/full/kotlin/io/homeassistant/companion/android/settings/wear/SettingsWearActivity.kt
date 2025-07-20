@@ -21,7 +21,7 @@ import com.google.android.gms.wearable.Node
 import com.google.android.gms.wearable.NodeClient
 import com.google.android.gms.wearable.Wearable
 import io.homeassistant.companion.android.common.R as commonR
-import io.homeassistant.companion.android.databinding.ActivitySettingsWearBinding
+import com.wahome.databinding.ActivitySettingsWearBinding
 import io.homeassistant.companion.android.settings.HelpMenuProvider
 import io.homeassistant.companion.android.settings.wear.views.SettingsWearMainView
 import io.homeassistant.companion.android.util.applySafeDrawingInsets

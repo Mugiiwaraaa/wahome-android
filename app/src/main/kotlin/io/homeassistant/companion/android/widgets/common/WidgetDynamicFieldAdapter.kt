@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.RecyclerView
 import io.homeassistant.companion.android.common.data.integration.Action
 import io.homeassistant.companion.android.common.data.integration.Entity
 import io.homeassistant.companion.android.common.util.capitalize
-import io.homeassistant.companion.android.databinding.WidgetButtonConfigureDynamicFieldBinding
+import com.wahome.databinding.WidgetButtonConfigureDynamicFieldBinding
 import java.util.Locale
 import kotlin.Exception
 import timber.log.Timber

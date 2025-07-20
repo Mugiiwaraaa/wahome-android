@@ -37,7 +37,7 @@ import io.homeassistant.companion.android.common.util.MapAnySerializer
 import io.homeassistant.companion.android.common.util.kotlinJsonMapper
 import io.homeassistant.companion.android.database.widget.ButtonWidgetDao
 import io.homeassistant.companion.android.database.widget.WidgetBackgroundType
-import io.homeassistant.companion.android.databinding.WidgetButtonConfigureBinding
+import com.wahome.databinding.WidgetButtonConfigureBinding
 import io.homeassistant.companion.android.settings.widgets.ManageWidgetsViewModel
 import io.homeassistant.companion.android.util.applySafeDrawingInsets
 import io.homeassistant.companion.android.util.getHexForColor

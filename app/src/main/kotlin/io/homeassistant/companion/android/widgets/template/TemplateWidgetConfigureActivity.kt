@@ -21,7 +21,7 @@ import dagger.hilt.android.AndroidEntryPoint
 import io.homeassistant.companion.android.common.R as commonR
 import io.homeassistant.companion.android.database.widget.TemplateWidgetDao
 import io.homeassistant.companion.android.database.widget.WidgetBackgroundType
-import io.homeassistant.companion.android.databinding.WidgetTemplateConfigureBinding
+import com.wahome.databinding.WidgetTemplateConfigureBinding
 import io.homeassistant.companion.android.settings.widgets.ManageWidgetsViewModel
 import io.homeassistant.companion.android.util.applySafeDrawingInsets
 import io.homeassistant.companion.android.util.getHexForColor

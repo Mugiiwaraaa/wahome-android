@@ -30,7 +30,7 @@ import io.homeassistant.companion.android.common.data.integration.friendlyName
 import io.homeassistant.companion.android.database.widget.StaticWidgetDao
 import io.homeassistant.companion.android.database.widget.WidgetBackgroundType
 import io.homeassistant.companion.android.database.widget.WidgetTapAction
-import io.homeassistant.companion.android.databinding.WidgetStaticConfigureBinding
+import com.wahome.databinding.WidgetStaticConfigureBinding
 import io.homeassistant.companion.android.settings.widgets.ManageWidgetsViewModel
 import io.homeassistant.companion.android.util.applySafeDrawingInsets
 import io.homeassistant.companion.android.util.getHexForColor

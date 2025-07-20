@@ -21,7 +21,7 @@ import io.homeassistant.companion.android.common.data.integration.Entity
 import io.homeassistant.companion.android.common.data.integration.domain
 import io.homeassistant.companion.android.database.widget.CameraWidgetDao
 import io.homeassistant.companion.android.database.widget.WidgetTapAction
-import io.homeassistant.companion.android.databinding.WidgetCameraConfigureBinding
+import com.wahome.databinding.WidgetCameraConfigureBinding
 import io.homeassistant.companion.android.settings.widgets.ManageWidgetsViewModel
 import io.homeassistant.companion.android.util.applySafeDrawingInsets
 import io.homeassistant.companion.android.widgets.BaseWidgetConfigureActivity

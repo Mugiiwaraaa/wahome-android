@@ -86,7 +86,7 @@ import io.homeassistant.companion.android.common.util.GestureAction
 import io.homeassistant.companion.android.common.util.GestureDirection
 import io.homeassistant.companion.android.database.authentication.Authentication
 import io.homeassistant.companion.android.database.authentication.AuthenticationDao
-import io.homeassistant.companion.android.databinding.DialogAuthenticationBinding
+import com.wahome.databinding.DialogAuthenticationBinding
 import io.homeassistant.companion.android.improv.ui.ImprovPermissionDialog
 import io.homeassistant.companion.android.improv.ui.ImprovSetupDialog
 import io.homeassistant.companion.android.launch.LaunchActivity
