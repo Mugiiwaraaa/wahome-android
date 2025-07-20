@@ -7,7 +7,7 @@
         <item name="alertDialogTheme">@style/Theme.Wahome.Dialog.Alert.Launch</item>
     </style>
 
-    <style name="Theme.HomeAssistant" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.Wahome" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
