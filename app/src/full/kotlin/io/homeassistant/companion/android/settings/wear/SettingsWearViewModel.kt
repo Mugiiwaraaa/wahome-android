@@ -253,7 +253,7 @@ class SettingsWearViewModel @Inject constructor(private val serverManager: Serve
             asPutDataRequest()
         }
 
-        val app = getApplication<HomeAssistantApplication>()
+        val app = getApplication<WahomeApplication>()
         try {
             Wearable.getDataClient(app).putDataItem(putDataRequest).apply {
                 addOnSuccessListener { Timber.d("Successfully sent auth to wear") }
