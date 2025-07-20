@@ -19,7 +19,7 @@ import com.google.android.gms.wearable.CapabilityInfo
 import com.google.android.gms.wearable.DataMapItem
 import com.google.android.gms.wearable.Wearable
 import dagger.hilt.android.AndroidEntryPoint
-import io.homeassistant.companion.android.R
+import com.wahome.R
 import io.homeassistant.companion.android.common.R as commonR
 import io.homeassistant.companion.android.onboarding.integration.MobileAppIntegrationActivity
 import io.homeassistant.companion.android.onboarding.phoneinstall.PhoneInstallActivity

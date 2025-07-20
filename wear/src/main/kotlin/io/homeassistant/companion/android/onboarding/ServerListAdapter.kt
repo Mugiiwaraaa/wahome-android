@@ -4,7 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import androidx.recyclerview.widget.RecyclerView.ViewHolder
-import io.homeassistant.companion.android.R
+import com.wahome.R
 import io.homeassistant.companion.android.common.R as commonR
 import io.homeassistant.companion.android.viewHolders.HeaderViewHolder
 import io.homeassistant.companion.android.viewHolders.InstanceViewHolder

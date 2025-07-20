@@ -21,7 +21,7 @@ import androidx.wear.protolayout.material.Text
 import androidx.wear.protolayout.material.Typography
 import androidx.wear.protolayout.material.layouts.PrimaryLayout
 import androidx.wear.tiles.RequestBuilders
-import io.homeassistant.companion.android.R
+import com.wahome.R
 import io.homeassistant.companion.android.common.R as commonR
 import io.homeassistant.companion.android.splash.SplashActivity
 
