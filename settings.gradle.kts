@@ -1,7 +1,7 @@
 
 include(":common", ":app", ":wear", ":automotive", ":testing-unit", ":lint")
 
-rootProject.name = "wahome-android"
+rootProject.name = "home-assistant-android"
 
 includeBuild("build-logic")
 
