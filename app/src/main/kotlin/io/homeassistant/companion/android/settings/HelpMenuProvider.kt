@@ -11,7 +11,7 @@ import androidx.core.view.MenuHost
 import androidx.core.view.MenuProvider
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Lifecycle
-import io.homeassistant.companion.android.R
+import com.wahome.R
 
 /**
  * Adds a "Get Help" menu option that opens the given [helpLink] in the browser.

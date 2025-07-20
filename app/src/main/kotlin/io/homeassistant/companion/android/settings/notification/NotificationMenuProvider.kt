@@ -5,7 +5,7 @@ import android.view.Menu
 import android.view.MenuInflater
 import androidx.core.net.toUri
 import androidx.core.view.MenuProvider
-import io.homeassistant.companion.android.R
+import com.wahome.R
 
 abstract class NotificationMenuProvider : MenuProvider {
     final override fun onCreateMenu(menu: Menu, menuInflater: MenuInflater) {

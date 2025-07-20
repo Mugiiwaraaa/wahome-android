@@ -15,7 +15,7 @@ import dagger.hilt.android.EntryPointAccessors
 import dagger.hilt.android.components.ActivityComponent
 import eightbitlab.com.blurview.BlurView
 import io.homeassistant.companion.android.BaseActivity
-import io.homeassistant.companion.android.R
+import com.wahome.R
 import io.homeassistant.companion.android.authenticator.Authenticator
 import io.homeassistant.companion.android.common.R as commonR
 import io.homeassistant.companion.android.common.data.servers.ServerManager

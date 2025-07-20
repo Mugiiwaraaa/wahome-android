@@ -73,7 +73,7 @@ import androidx.webkit.WebViewFeature
 import dagger.hilt.android.AndroidEntryPoint
 import io.homeassistant.companion.android.BaseActivity
 import com.wahome.BuildConfig
-import io.homeassistant.companion.android.R
+import com.wahome.R
 import io.homeassistant.companion.android.assist.AssistActivity
 import io.homeassistant.companion.android.authenticator.Authenticator
 import io.homeassistant.companion.android.barcode.BarcodeScannerActivity

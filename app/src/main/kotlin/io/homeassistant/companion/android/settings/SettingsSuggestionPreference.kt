@@ -6,7 +6,7 @@ import android.view.View
 import android.widget.ImageButton
 import androidx.preference.Preference
 import androidx.preference.PreferenceViewHolder
-import io.homeassistant.companion.android.R
+import com.wahome.R
 
 class SettingsSuggestionPreference @JvmOverloads constructor(
     context: Context,

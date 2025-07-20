@@ -4,7 +4,7 @@ import android.content.Context
 import android.content.res.Configuration
 import android.view.ContextThemeWrapper
 import info.hannes.changelog.ChangeLog
-import io.homeassistant.companion.android.R
+import com.wahome.R
 import io.homeassistant.companion.android.themes.ThemesManager
 import javax.inject.Inject
 import kotlinx.coroutines.runBlocking
