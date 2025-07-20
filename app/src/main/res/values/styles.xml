@@ -18,7 +18,7 @@
         <item name="android:navigationBarColor">@color/colorPrimaryDark</item>
         <item name="alertDialogTheme">@style/Theme.Wahome.Dialog.Alert</item>
         <item name="actionBarPopupTheme">@style/ThemeOverlay.MaterialComponents.Dark</item>
-        <item name="bottomSheetDialogTheme">@style/ThemeOverlay.HomeAssistant.BottomSheetDialog</item>
+        <item name="bottomSheetDialogTheme">@style/ThemeOverlay.Wahome.BottomSheetDialog</item>
     </style>
 
     <style name="Theme.HomeAssistant.Config" parent="Theme.HomeAssistant" />
