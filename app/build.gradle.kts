@@ -52,6 +52,6 @@ dependencies {
 }
 
 // Disable to fix memory leak and be compatible with the configuration cache.
-configure<GoogleServicesPluginConfig> {
-    disableVersionCheck = true
-}
+// configure<GoogleServicesPluginConfig> {
+//     disableVersionCheck = true
+// }
