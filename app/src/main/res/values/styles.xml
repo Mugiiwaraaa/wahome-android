@@ -71,7 +71,7 @@
         <item name="android:backgroundTint">@android:color/transparent</item>
     </style>
 
-    <style name="ThemeOverlay.HomeAssistant.ConfigActionBar" parent="ThemeOverlay.MaterialComponents.ActionBar">
+    <style name="ThemeOverlay.Wahome.ConfigActionBar" parent="ThemeOverlay.MaterialComponents.ActionBar">
         <item name="android:background">@color/colorBackground</item>
         <item name="android:textColorPrimary">@color/colorOnBackground</item>
         <item name="colorControlNormal">@color/colorOnBackground</item>
