@@ -20,7 +20,7 @@
         <item name="android:textColorPrimary">@color/colorDialogMessage</item>
     </style>
 
-    <style name="ThemeOverlay.HomeAssistant.ActionBar" parent="ThemeOverlay.MaterialComponents.ActionBar">
+    <style name="ThemeOverlay.Wahome.ActionBar" parent="ThemeOverlay.MaterialComponents.ActionBar">
         <item name="popupTheme">@style/Theme.Wahome.PopupTheme</item>
     </style>
 
