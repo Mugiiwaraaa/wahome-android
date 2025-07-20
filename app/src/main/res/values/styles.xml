@@ -82,7 +82,7 @@
         <item name="android:background">@null</item>
     </style>
 
-    <style name="Theme.HomeAssistant.Dialog.Alert" parent="Theme.MaterialComponents.Light.Dialog.Alert">
+    <style name="Theme.Wahome.Dialog.Alert" parent="Theme.MaterialComponents.Light.Dialog.Alert">
         <item name="android:textColor">@color/colorDialogTitle</item>
         <item name="buttonBarPositiveButtonStyle">@style/Alert.Button.Positive</item>
         <item name="buttonBarNegativeButtonStyle">@style/Alert.Button.Negative</item>
