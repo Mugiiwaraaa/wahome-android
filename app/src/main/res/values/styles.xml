@@ -78,7 +78,7 @@
         <item name="popupTheme">@style/Theme.Wahome.PopupTheme</item>
     </style>
 
-    <style name="Theme.HomeAssistant.Dialog.Alert.Launch" parent="Theme.HomeAssistant.Dialog.Alert">
+    <style name="Theme.Wahome.Dialog.Alert.Launch" parent="Theme.Wahome.Dialog.Alert">
         <item name="android:background">@null</item>
     </style>
 
