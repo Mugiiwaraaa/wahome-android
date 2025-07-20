@@ -342,7 +342,7 @@
             android:name=".settings.wear.views.SettingsWearMainView"
             android:parentActivityName=".settings.SettingsActivity"
             android:configChanges="orientation|screenSize"
-            android:theme="@style/Theme.HomeAssistant.Config" />
+            android:theme="@style/Theme.Wahome.Config" />
 
         <service android:name=".onboarding.WearOnboardingListener"
             android:exported="true">
