@@ -394,7 +394,7 @@ class SettingsWearViewModel @Inject constructor(private val serverManager: Serve
         if (id != authenticateId) return@launch
 
         val success = data.getBoolean(WearDataMessages.KEY_SUCCESS, false)
-        val application = getApplication<HomeAssistantApplication>()
+        val application = getApplication<WahomeApplication>()
         if (success) {
             _resultSnackbar.emit(application.getString(commonR.string.logged_in))
         } else {
