@@ -1,6 +1,6 @@
 package com.wahome
 
-import io.homeassistant.companion.android.BuildConfig
+import com.wahome.BuildConfig
 import android.app.Application
 import android.app.NotificationManager
 import android.bluetooth.BluetoothAdapter
