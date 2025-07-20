@@ -21,7 +21,7 @@
     </style>
 
     <style name="ThemeOverlay.HomeAssistant.ActionBar" parent="ThemeOverlay.MaterialComponents.ActionBar">
-        <item name="popupTheme">@style/Theme.HomeAssistant.PopupTheme</item>
+        <item name="popupTheme">@style/Theme.Wahome.PopupTheme</item>
     </style>
 
     <style name="Theme.HomeAssistant.PopupTheme" parent="ThemeOverlay.MaterialComponents.Dark">
